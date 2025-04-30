@@ -2,7 +2,7 @@
 
 ## Answers
 
-**Name:**_________________________
+**Name:**Miles Whiteford
 **Name:**_________________________
 
 
@@ -11,8 +11,5 @@ Place all written answers from `recitation-08.md` here for easier grading.
 
 
 - **1b)**
-
-
-
-- **2b)**
-
+Work is O((E+V)log(V))
+Span is O(Vlog(V))
